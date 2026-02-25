@@ -9,7 +9,7 @@ body{
   background-color: #333;
 }
 
-/* CARD */
+
 .homePage{
   width: 500px;
   background-color: #eda7a7;
@@ -24,7 +24,7 @@ body{
   color: #333;
 }
 
-/* FORM */
+
 form{
   width: 100%;
 }
@@ -36,7 +36,7 @@ label{
   margin-top: 15px;
 }
 
-/* INPUTS */
+
 input{
   height: 40px;
   width: 100%;
@@ -51,7 +51,7 @@ input:focus{
   box-shadow: 0 0 5px #555;
 }
 
-/* SELECT */
+
 .activeLevel{
   height: 40px;
   width: 100%;
@@ -66,7 +66,7 @@ input:focus{
   box-shadow: 0 0 5px #555;
 }
 
-/* GENDER SECTION */
+
 .genderGroup{
   display: flex;
   gap: 20px;
@@ -80,7 +80,6 @@ input:focus{
   margin-right: 5px;
 }
 
-/* BUTTON */
 .CalculateBMR{
   height: 45px;
   width: 100%;
@@ -99,7 +98,6 @@ input:focus{
   background-color: black;
 }
 
-/* RESULT PAGE */
 .resultPage{
   width: 450px;
   background-color: #eda7a7;
